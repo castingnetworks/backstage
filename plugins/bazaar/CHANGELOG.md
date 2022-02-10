@@ -1,5 +1,18 @@
 # @backstage/plugin-bazaar
 
+## 0.1.14
+
+### Patch Changes
+
+- 1ed305728b: Bump `node-fetch` to version 2.6.7 and `cross-fetch` to version 3.1.5
+- Updated dependencies
+  - @backstage/catalog-client@0.6.1
+  - @backstage/cli@0.13.3
+  - @backstage/core-components@0.8.9
+  - @backstage/core-plugin-api@0.6.1
+  - @backstage/plugin-catalog@0.7.13
+  - @backstage/plugin-catalog-react@0.6.15
+
 ## 0.1.13
 
 ### Patch Changes

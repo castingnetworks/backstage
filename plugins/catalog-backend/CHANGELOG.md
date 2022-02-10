@@ -1,5 +1,18 @@
 # @backstage/plugin-catalog-backend
 
+## 0.21.4
+
+### Patch Changes
+
+- 1ed305728b: Bump `node-fetch` to version 2.6.7 and `cross-fetch` to version 3.1.5
+- ca1d6c1788: Support "dependencyOf" relation in Resource entities
+- Updated dependencies
+  - @backstage/backend-common@0.10.8
+  - @backstage/catalog-client@0.6.1
+  - @backstage/errors@0.2.1
+  - @backstage/integration@0.7.3
+  - @backstage/plugin-permission-common@0.4.1
+
 ## 0.21.3
 
 ### Patch Changes

@@ -1,5 +1,20 @@
 # @backstage/plugin-techdocs
 
+## 0.13.4
+
+### Patch Changes
+
+- 1ed305728b: Bump `node-fetch` to version 2.6.7 and `cross-fetch` to version 3.1.5
+- Updated dependencies
+  - @backstage/core-components@0.8.9
+  - @backstage/core-plugin-api@0.6.1
+  - @backstage/errors@0.2.1
+  - @backstage/integration@0.7.3
+  - @backstage/integration-react@0.1.22
+  - @backstage/plugin-catalog@0.7.13
+  - @backstage/plugin-catalog-react@0.6.15
+  - @backstage/plugin-search@0.6.3
+
 ## 0.13.3
 
 ### Patch Changes

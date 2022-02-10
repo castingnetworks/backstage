@@ -1,5 +1,15 @@
 # @backstage/cli
 
+## 0.13.3
+
+### Patch Changes
+
+- 1ed305728b: Bump `node-fetch` to version 2.6.7 and `cross-fetch` to version 3.1.5
+- Updated dependencies
+  - @backstage/config-loader@0.9.4
+  - @backstage/errors@0.2.1
+  - @backstage/release-manifests@0.0.2
+
 ## 0.13.2
 
 ### Patch Changes
